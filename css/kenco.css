@@ -10,7 +10,7 @@ body header:first-child a {
 }
 
 .engagement > .grid {
-  background-image: url('/imgs/background.png')
+  background-image: url('/imgs/background.png');
   background-repeat: no-repeat;
   background-size: cover;
 }
