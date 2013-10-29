@@ -47,6 +47,15 @@ legend {
   right: -1ex;
 }
 
+input {
+  margin-bottom: 1ex;
+}
+
+input[type="text"] {
+  border-width: 0;
+  padding: 0 1ex 1em !important;
+}
+
 input[type="submit"] {
   width: 100%;
 }
