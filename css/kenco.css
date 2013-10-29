@@ -1,0 +1,10 @@
+body header:first-child a {
+  background-image: url('/imgs/logo.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: block;
+  height: 150px;
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+}
