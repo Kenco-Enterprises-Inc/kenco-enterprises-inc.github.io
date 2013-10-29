@@ -9,7 +9,7 @@ body header:first-child a {
   overflow: hidden;
 }
 
-.engagement {
+.engagement > .grid {
   background-image: url('/imgs/background.png')
   background-repeat: no-repeat;
   background-size: cover;
