@@ -51,7 +51,7 @@ input {
   margin-bottom: 1ex;
 }
 
-input[type="text"] {
+input[type="text"], input:not([type]) {
   border-width: 0;
   padding: 0 1ex 1em !important;
 }
