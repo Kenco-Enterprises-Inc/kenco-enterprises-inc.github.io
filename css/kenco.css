@@ -14,3 +14,36 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+/* Form Styling */
+form {
+  background-color: #d0dae0;
+  margin-left: 2em;
+  padding: 1ex;
+  padding-top: 0;
+}
+
+fieldset {
+  margin: 0;
+  padding: 0;
+  padding-top: 2em;
+  border-width: 0;
+  position:relative;
+}
+
+legend {
+  background-color: #174e94;
+  color: white;
+  display: block;
+  padding: 1ex;
+  padding-top: .5em;
+  padding-bottom: 1em;
+  position: absolute;
+  top: -0.5em;
+  left: -1ex;
+  right: -1ex;
+}
+
+input[type="submit"] {
+  width: 100%;
+}
